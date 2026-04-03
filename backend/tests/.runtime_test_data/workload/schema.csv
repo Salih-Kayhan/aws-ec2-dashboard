@@ -1,0 +1,13 @@
+file name,field number,content,format,mandatory
+batch_instance.csv,1,start_timestamp,INTEGER,YES
+batch_instance.csv,2,end_timestamp,INTEGER,YES
+batch_instance.csv,3,job id,INTEGER,YES
+batch_instance.csv,4,task id,INTEGER,YES
+batch_instance.csv,5,machine id,INTEGER,YES
+batch_instance.csv,6,status,STRING,YES
+batch_instance.csv,7,sequence number,INTEGER,YES
+batch_instance.csv,8,total sequence number,INTEGER,YES
+batch_instance.csv,9,maximum real cpu number,FLOAT,YES
+batch_instance.csv,10,average real cpu number,FLOAT,YES
+batch_instance.csv,11,maximum normalized memory usage,FLOAT,NO
+batch_instance.csv,12,average normalized memory usage,FLOAT,NO
